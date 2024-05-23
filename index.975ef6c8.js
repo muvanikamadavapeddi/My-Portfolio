@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "muvanikamadavapeddi3009@gmail.com",
     gitHub: "muvanikamadavapeddi",
     instagram: "muvanika_madavapeddi",
-    linkedIn: "Muvanika Madavapeddi",
+    linkedIn: "www.linkedin.com/in/muvanika-madavapeddi-6a351928b",
     medium: "",
     twitter: "",
     youTube: ""
